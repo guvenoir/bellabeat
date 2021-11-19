@@ -1,0 +1,44 @@
+** Google Data Analytics Case Study: Bellabeat 
+
+
+
+****Introduction
+
+Bellabeat, a high-tech manufacturer of health-focused products for women.
+They produce smart devices like smart watches, smart necklaces, smart water bottles, and smart phone apps. 
+These products get health data from customers such as heart beats, stress level, body temperature and etc.
+This is a small company but they would like to have an opportunity to grow.
+The company managers want to learn about smart devices usage trends like, who uses them, 
+    how and why do people use smart devices and what are their expectations from using a smart device. 
+The managers will compare these trends and try to apply to their own devices.
+The managers also would like to catch the trends and they will regulate or rearraenge their marketing strategy according to these results.
+The solution is important for the company because they will spend for new products, new advertisement campeigns and decide how to grow. 
+
+****Business Task
+
+Using data of online platforms which is collected from smart device customers and apply the data to the products of the company for creating new marketing solutions.
+
+****Key Stakeholders
+
+Chief Creative Officer
+Executive Team
+Marketing Analytics Team
+
+****Data Sources
+
+ FitBit Fitness Tracker Data (Public)
+ 
+ ****Data Details and Limitations
+ 
+33 users without personal information
+31 days of data collected
+Number of steps (daily and per minute)
+Sleep length (per minute)
+Activity period (daily, hourly, and per minute)
+Body weight
+Distance
+Burning calory amount (daily, hourly, and per minute)
+
+Limitations: The company has sold over 100,000 pieces smart devices until middle of 2021. We are using only 33 users's data.
+They are unknown people and we have no idea about their gender, age vs. When we compare 100.000 sales and 33 customers, we will have unavoidable bias.
+Data is from 2016 and it is no longer updated.
